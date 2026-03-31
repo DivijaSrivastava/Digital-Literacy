@@ -19,5 +19,3 @@ sites like ResearchGate and data exacavation sites like Kaggle.
 Module 3 assists us by enlighting us on how to use various google workspaces and 
 how to use various programming platforms for enhancing our knowledge 
 for various job interviews and giving us ample amount of practice for a language.
-
-Module 4 trains us on how 
